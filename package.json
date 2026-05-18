@@ -1,0 +1,11 @@
+{
+  "name": "myfirstclaudeproject",
+  "version": "1.0.0",
+  "description": "React app with thumbs-up/thumbs-down feedback button",
+  "type": "module",
+  "scripts": {
+    "test": "node --test src/feedbackUtils.test.js",
+    "test:watch": "node --test --watch src/feedbackUtils.test.js"
+  },
+  "license": "ISC"
+}
